@@ -1,4 +1,4 @@
-# Smart Wheel Alignment and Tire Pressure Detection System for Automobiles
+# Smart Wheel Misalignment and Tire Pressure Detection System for Automobiles
 
 ## Overview
 The Smart Wheel Alignment and Tire Pressure Detection System is a portable, low-cost, and wireless embedded solution developed to identify wheel misalignment and tire pressure abnormalities in automobiles. The system is designed to provide a simple alternative to conventional workshop-based diagnostic equipment by enabling stationary inspection of wheel conditions using sensor-based measurements and wireless communication.
@@ -126,7 +126,7 @@ Experimental testing under multiple operating conditions demonstrated reliable d
 The Smart Wheel Alignment and Tire Pressure Detection System provides an effective and economical approach for monitoring vehicle wheel condition. By integrating alignment estimation and tire pressure measurement within a wireless embedded framework, the system enables early detection of faults without requiring expensive diagnostic infrastructure. Its portability, simplicity, and real-time monitoring capability make it a practical solution for automotive maintenance and safety applications.
 
 ## Authors
-**Tejashwini N M**
+**Tejashwini N M** | **Arshiya Fathima** | **Harshithabai R** | **Nisha S K**
 Electronics and Communication Engineering
 
 **Project Domain:** Embedded Systems | IoT | Automotive Diagnostics | Wireless Sensor Networks
