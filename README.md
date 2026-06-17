@@ -127,6 +127,7 @@ The Smart Wheel Alignment and Tire Pressure Detection System provides an effecti
 
 ## Authors
 **Tejashwini N M** | **Arshiya Fathima** | **Harshithabai R** | **Nisha S K**
+
 Electronics and Communication Engineering
 
 **Project Domain:** Embedded Systems | IoT | Automotive Diagnostics | Wireless Sensor Networks
